@@ -1,0 +1,702 @@
+* { box-sizing: border-box; }
+header, nav, main, footer { display: block; }
+
+nav 
+{ 
+	font-weight: bold;
+  	float: left;
+  	width: 180px;
+  	height: 100%;
+  	border-right: 4px solid black;
+}
+
+header
+{
+	padding-left: 15px;
+	padding-top: 5px;
+	color: #D6B22A;
+	border-bottom: 4px solid #050A66;
+}
+
+iframe
+{
+	padding-top: 15px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body
+{
+	font-family: Verdana, Arial, sans-serif;
+}
+
+nav a { text-decoration: none; }
+nav a:link { color: #B35947; }
+nav a:visited { color: #6D00A5; }
+nav a:hover { color: #FFFFFF; }
+
+main
+{
+	margin-left: 190px;
+}
+
+p
+{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom: 12px;
+	width: 85%;
+}
+
+h1 
+{ 
+	line-height: 100%;  
+	background-size: 50%;
+  	background-position: right;
+  	background-repeat: no-repeat;
+  	padding-left: 20px;
+  	height: 50px; 
+   margin-bottom: 0; 
+   clear: right;
+}
+
+h2, h3
+{
+	padding-left: 30px;
+	padding-top: 7px;	
+}
+
+nav ul 
+{ 
+	list-style-type: none; 
+   margin: 0;
+	padding-left: 0;
+}
+
+nav li
+{
+	padding: 10px;
+}
+
+body
+{
+	background-color: #0039A6; 
+}
+
+table
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	align-self: center;
+	overflow: auto;
+}
+td
+{
+	padding: 5px;
+	border: 1px solid #3399cc;
+}
+td
+{
+	padding: 5px;
+	border: 1px solid #3399cc;
+	text-align: center;
+}
+
+footer 
+{ 
+	font-size: .70em;
+   font-style: italic;
+	text-align: center;
+   padding: 10px;		
+   background-color: #47B388;
+   margin-left: 190px;	
+   margin-right: 40px; 
+   border-radius: 10px 10px 10px 10px;  
+}
+
+#wrapper 
+{ 
+	background-color: #3085A6;
+	width: 80%;
+	height: 100%;
+   margin-left: auto;
+   margin-right: auto;
+   min-width: 700px;
+   max-width: 1024px;
+   box-shadow: 3px 3px 3px #333;
+   border-radius: 10px 10px 10px 10px;
+}
+
+.infoCard
+{
+	background-color: #E8EFF5;
+	width: 95%;
+	margin-bottom: 10px;
+	border-radius: 12px 12px 12px 12px;
+}
+
+.tableCard
+{
+	display: flex;
+	justify-content: center;
+	background-color: #E8EFF5;
+	width: 95%;
+	padding-left: 10px;
+	margin-bottom: 10px;	
+	border-radius: 15px 15px 15px 15px;
+}
+
+@media only all and (max-width: 768px)
+{
+	h1
+	{
+		height: 100%;
+		font-size: 1.5em;
+		padding-left: 0.3em;
+	}
+	nav { padding: 0; }
+
+	nav a
+	{
+		display: block;
+		padding: 0.2em;
+		font-size: 1.3em;
+		border-bottom: 1px solid #330000;
+	}
+	nav ul { margin: 0; padding: 0; }
+	nav li { display: block; margin: 0; padding: 0; }
+
+	main
+	{
+		padding-top: 0.1em;
+		padding-right: 0.6em;
+		padding-bottom: 0.1em;
+		padding-left: 0.4em;
+	}
+	#panAm707, #Dash80, #Prod707, #FF707, #EIS707, #B7073, #Why707, #JumboIntro, #Dev747, #Eng747, #everett, #jumboFlight, #JumboEIS, #B747SP, #B742, #B743, #B744, #B748, #AF1, #T7Intro, #Design777, #BigEngine, #T7FirstFlight, #T7EIS, #B77E, #B773, #B77W, #B77L, #B778, #B779, #Why777, #A380RollOut{ display: none; }
+	footer { padding: 0; }
+}
+
+@media only screen and (max-width: 1024px)
+{ 
+	body 
+	{ 
+		background-image: none; 
+		margin: 0;
+		padding: 0;
+	} 
+	#wrapper
+	{
+		width: auto;
+		min-width: 0;
+		box-shadow: none;
+	}
+	h1{ margin: 0; }
+	nav
+	{
+		float: none;
+		width: auto;
+		padding: 0.5em;
+	}
+	nav li { display: inline-block; }
+	nav a { padding: 1em; }
+	main
+	{
+		padding: 1em;
+		margin-left: 0;
+		font-size: 90%;
+	}
+	footer { margin: 0; }
+	#panAm707, #Dash80, #Prod707, #FF707, #EIS707, #B7073, #Why707, #JumboIntro, #Dev747, #Eng747, #everett, #jumboFlight, #JumboEIS, #B747SP, #B742, #B743, #B744, #B748, #AF1, #T7Intro, #Design777, #BigEngine, #T7FirstFlight, #T7EIS, #B77E, #B773, #B77W, #B77L, #B778, #B779, #Why777, #A380RollOut{ margin-left: 0; }
+}
+
+#landing
+{
+	background-image: url(images/landing.jpg);
+	height: 254px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: auto;	
+}
+
+#panAm707
+{
+	background-image: url(images/707intro.jpg);
+	height: 243px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: auto;
+}
+
+#Dash80
+{
+	background-image: url(images/707Proto.jpg);
+	height: 273px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: auto;
+}
+
+#Prod707
+{
+	background-image: url(images/707120.jpg);
+	height: 317px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: auto;
+}
+
+#FF707
+{
+	background-image: url(images/707FF.jpg);
+	height: 280px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: auto;
+}
+
+#EIS707
+{
+	background-image: url(images/707EIS.jpg);
+	height: 298px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: auto;
+}
+
+#B7073
+{
+	background-image: url(images/707320.png);
+	height: 293px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: auto;
+}
+
+#Why707
+{
+	background-image: url(images/707Ad.jpg);
+	height: 630px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: auto;	
+}
+
+#JumboIntro
+{
+	background-image: url(images/747intro.jpg);
+	height: 348px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#Dev747
+{
+	background-image: url(images/747Proto.jpg);
+	height: 304px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#Eng747
+{
+	background-image: url(images/747Engine.jpg);
+	height: 338px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#everett
+{
+	background-image: url(images/everett.jpg);
+	height: 357px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#jumboFlight
+{
+	background-image: url(images/747flight.jpg);
+	height: 338px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+#JumboEIS
+{
+	background-image: url(images/747EIS.jpg);
+	height: 300px;
+	width: 450px;
+	background-size: contain;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#B747SP
+{
+	background-image: url(images/747SP.jpg);
+	height: 270px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#B742
+{
+	background-image: url(images/B742.jpg);
+	height: 300px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#B743
+{
+	background-image: url(images/B743.jpg);
+	height: 300px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#B744
+{
+	background-image: url(images/B744.jpg);
+	height: 258px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#B748
+{
+	background-image: url(images/B748.jpg);
+	height: 300px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#AF1
+{
+	background-image: url(images/AF1.jpg);
+	height: 362px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#T7Intro
+{
+	background-image: url(images/777Intro.jpg);
+	height: 300px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+#Design777
+{
+	background-image: url(images/777Concept.jpg);
+	height: 353px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#BigEngine
+{
+	background-image: url(images/777Engine.jpg);
+	height: 318px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#T7FirstFlight
+{
+	background-image: url(images/T7FirstFlight.jpg);
+	height: 190px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#T7EIS
+{
+	background-image: url(images/777EIS.jpeg);
+	height: 295px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#B77E
+{
+	background-image: url(images/B77E.jpg);
+	height: 300px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#B773
+{
+	background-image: url(images/B773.jpg);
+	height: 302px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#B77W
+{
+	background-image: url(images/B77W.jpg);
+	height: 253px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#B77L
+{
+	background-image: url(images/B77L.jpg);
+	height: 297px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#B778
+{
+	background-image: url(images/B778.jpg);
+	height: 225px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#B779
+{
+	background-image: url(images/B779.jpg);
+	height: 233px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#Why777
+{
+	background-image: url(images/Why777.jpg);
+	height: 244px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#A380RollOut
+{
+	background-image: url(images/A380Intro.jpg);
+	height: 272px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+#A3XX
+{
+	background-image: url(images/A3XX.jpg);
+	height: 405px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#A380Prod
+{
+	background-image: url(images/A380Prod.jpg);
+	height: 159px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+#A380FF
+{
+	background-image: url(images/A380FF.jpg);
+	height: 225px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+#SIAA380
+{
+	background-image: url(images/SIAA380.jpg);
+	height: 253px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#EKA380
+{
+	background-image: url(images/EKA380.jpg);
+	height: 221px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#A380Plus
+{
+	background-image: url(images/A380Plus.jpg);
+	height: 225px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#WhyA380
+{
+	background-image: url(images/WhyA380.jpg);
+	height: 247px;
+	width: 450px;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;	
+}

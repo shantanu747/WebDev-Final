@@ -1,0 +1,670 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"pad",
+				"padding-top\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"inf",
+				"infoCard"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"in",
+				"infoCard"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"bord",
+				"border-right\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"T",
+				"T7EIS"
+			],
+			[
+				"T7",
+				"T7FirstFlight"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"back",
+				"background-repeat\tproperty"
+			],
+			[
+				"backgr",
+				"background-size\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"backgro",
+				"background-repeat\tproperty"
+			],
+			[
+				"ma",
+				"margin-left\tproperty"
+			],
+			[
+				"ca",
+				"caption\tTag"
+			],
+			[
+				"i",
+				"infoCard"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"pa",
+				"padding-left\tproperty"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"a",
+				"auto\tpadding-bottom"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"my",
+				"myNights"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"magi",
+				"margin-bottom"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"cen",
+				"content"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"il",
+				"inline-block"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"s",
+				"space-between"
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"light",
+				"lighthouse"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"fil",
+				"fileFolderFinder"
+			],
+			[
+				"joi",
+				"join"
+			],
+			[
+				"bo",
+				"bonusGlobal"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"bon",
+				"bonusGlobalChanger"
+			],
+			[
+				"nu",
+				"numTwo"
+			],
+			[
+				"num",
+				"numTwo"
+			],
+			[
+				"var",
+				"varTuple"
+			],
+			[
+				"inv",
+				"invalidChars"
+			],
+			[
+				"us",
+				"userInput"
+			],
+			[
+				"sma",
+				"sample"
+			],
+			[
+				"pr",
+				"programming"
+			],
+			[
+				"h2",
+				"h2back"
+			],
+			[
+				"nav",
+				"navlink"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"m",
+				"main\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"sec",
+				"secondTup"
+			],
+			[
+				"first",
+				"firstTup"
+			],
+			[
+				"one",
+				"oneMoreList"
+			],
+			[
+				"aC",
+				"aCoolList"
+			],
+			[
+				"mak",
+				"maketrans"
+			],
+			[
+				"tra",
+				"transtab"
+			],
+			[
+				"spl",
+				"splitString"
+			],
+			[
+				"str",
+				"strLower"
+			],
+			[
+				"ran",
+				"random"
+			],
+			[
+				"sam",
+				"sampleJam"
+			],
+			[
+				"sa",
+				"sampleJam"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"for",
+				"forLoops"
+			],
+			[
+				"r",
+				"range"
+			],
+			[
+				"l",
+				"loop"
+			],
+			[
+				"rat",
+				"rating"
+			],
+			[
+				"rating",
+				"ratingSystem"
+			],
+			[
+				"raw",
+				"raw_input"
+			],
+			[
+				"d",
+				"dict1"
+			],
+			[
+				"dic",
+				"dictionary"
+			],
+			[
+				"lis",
+				"listsAndTuples"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 179.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: For Loop"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Add Repository"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"",
+				"Changelog"
+			]
+		],
+		"width": 652.0
+	},
+	"console":
+	{
+		"height": 518.0,
+		"history":
+		[
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 63438))",
+			"import socket; socket.socket(socket.AF_INET, socket.SOCK_STREAM).connect((\"localhost\", 53386))",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Shantanu/Desktop/test.c",
+		"/Users/Shantanu/Documents/Code/Python/notes.py",
+		"/Users/Shantanu/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Shantanu/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Final Project/index.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Final Project/jet.css",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Final Project/a380.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Final Project/b777.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Final Project/b707.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Final Project/b747.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 4/pacific9/reservations.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 4/pacific9/index.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 4/pacific9/pacific.css",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Final Project/NewPlane.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 4/pacific9/yurts.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 4/pacific9/activities.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 2/Pacific Trails 3/pacific.css",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 4/pacific8/pacific.css",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 4/pacific8/yurts.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 4/pacific8/activities.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 4/pacific8/index.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 4/M4P3.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 3/pacific7/activities.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 3/pacific7/pacific.css",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 3/pacific7/yurts.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 3/pacific7/index.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 3/javajam6/index.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 3/M3E4/11/index.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 3/javajam6/music.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 3/javajam6/menu.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 3/javajam6/javajam.css",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 3/M3E4/7/myprint.css",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 3/M3E4/7/lighthouse.css",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 3/M3E4/7/index.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 3/M3E4.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 3/JavaJam_End4/index.html",
+		"/Users/Shantanu/Documents/Code/Python/Module-10/methodsOverRide.py",
+		"/Users/Shantanu/Documents/Code/Python/Module-10/operatorOverLoading.py",
+		"/Users/Shantanu/Documents/Code/Python/Module-9/filefolderFinder.py",
+		"/Users/Shantanu/Documents/Code/Python/Module-10/classInheritance.py",
+		"/Users/Shantanu/Documents/Code/Python/Module-10/class.py",
+		"/Users/Shantanu/Documents/Code/Python/namespace.py",
+		"/Users/Shantanu/Documents/Code/Python/calciImport.py",
+		"/Users/Shantanu/Documents/Code/Python/mathFunctions.py",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 2/Short Assignment 3/example.html",
+		"/Users/Shantanu/Desktop/test.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 2/Pacific Trails/pacific.css",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 2/Pacific Trails/yurts.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 2/Pacific Trails/index.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 2/chapter3/3.9/services.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 2/chapter3/3.9/index.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 2/chapter3/3.9/trillium.css",
+		"/Users/Shantanu/Library/Application Support/Sublime Text 3/Packages/User/DashDoc.sublime-settings",
+		"/Users/Shantanu/Library/Application Support/Sublime Text 3/Packages/DashDoc/DashDoc.sublime-settings",
+		"/Users/Shantanu/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/Shantanu/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/Shantanu/Documents/Code/Python/test.py",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 1/Pacific Trails/index.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 1/Web Research/w3.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 1/Web Research/udemy.html",
+		"/Users/Shantanu/Documents/Spring 2018/Intro to Web Development/Module 1/Pacific Trails/yurts.html",
+		"/Users/Shantanu/Downloads/node-v4.2.4/lib/_linklist.js",
+		"/Users/Shantanu/Downloads/node-v4.2.4/lib/_http_server.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 128.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "jet.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
